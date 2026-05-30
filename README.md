@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/00f6e8af-e636-4fd6-81ff-c201a7f59c17" width="800" autoplay loop muted playsinline></video>
+  <video src="https://github.com/user-attachments/assets/00f6e8af-e636-4fd6-81ff-c201a7f59c17s" width="800" autoplay loop muted playsinline></video>
 
 # Hello, I'm Franklin Soares <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
