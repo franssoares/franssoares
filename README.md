@@ -1,28 +1,29 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Cool-Coding-Animated-GIF.gif" alt="Coding GIF" width="800">
 
-  # Hello, I'm Franklin Soares 👋
-  
-  **Software & Automation Engineer | Bridging Low-Level Logic & High-Level Interfaces**
-  
-  *Coding the future beyond the horizon.*
+# Hello, I'm Franklin Soares 👋
+
+**Software & Automation Engineer | Bridging Low-Level Logic & High-Level Interfaces**
+
+_Coding the future beyond the horizon._
+
 </div>
 
 ---
 
-### 🔭 About Me
+### About Me
 
-With a degree in **Science & Technology** and currently pursuing **Computer Engineering** at **UFRN**, I specialize in bridging the gap between industrial automation and modern web systems. 
+With a degree in **Science & Technology** and currently pursuing **Computer Engineering** at **UFRN**, I specialize in bridging the gap between industrial automation and modern web systems.
 
 As a co-founder and lead developer of **SpeedMasters**, I have experience building robust, full-stack ecosystems—from racing management platforms to complex 3D modeling tools. My core focus is on precision, scalability, and high-performance architecture.
 
-- 🌍 Based in Natal, RN, Brazil.
-- 🏎️ Lead Dev @ [Speedmasters.com.br](https://speedmasters.com.br).
-- 🌐 Explore my full portfolio: **[franssoares.netlify.app](https://franssoares.netlify.app)**
+- Based in Natal, RN, Brazil.
+- Lead Dev @ [Speedmasters.com.br](https://speedmasters.com.br).
+- Explore my full portfolio: **[franssoares.netlify.app](https://franssoares.netlify.app)**
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -37,7 +38,7 @@ As a co-founder and lead developer of **SpeedMasters**, I have experience buildi
 
 ---
 
-### 🌌 GitHub Contributions
+### GitHub Contributions
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="800">
@@ -45,7 +46,7 @@ As a co-founder and lead developer of **SpeedMasters**, I have experience buildi
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <div align="center">
   <a href="mailto:xflsn100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
