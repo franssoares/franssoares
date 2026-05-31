@@ -1,11 +1,10 @@
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/00f6e8af-e636-4fd6-81ff-c201a7f59c17s" width="800" autoplay loop muted playsinline></video>
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODAxODU4NjEsIm5iZiI6MTc4MDE4NTU2MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTMwVDIzNTkyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlMGRjNTFhNWIxMDcwZWNlY2UyNTcxYWIzNDM0MDYzMjkxYzM4NWFmMmUyNWE5MTExMGJiODZlNDk5NDEyOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.FojaEDCqA1dFD0QPcvRIKnS6n-p2N7R01hdLuKUxpKs" alt="Banner Profile" width="800">
 
-# Hello, I'm Franklin Soares <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  # Hello, I'm Franklin Soares <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**Software & Automation Engineer | Bridging Low-Level Logic & High-Level Interfaces**
-
-\_Coding the future beyond the horizon.\_
+  **Software & Automation Engineer | Bridging Low-Level Logic & High-Level Interfaces**
+_Coding the future beyond the horizon._
 
 </div>
 
