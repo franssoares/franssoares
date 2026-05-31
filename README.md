@@ -3,7 +3,7 @@
 
   # Hello, I'm Franklin Soares <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  **Software & Automation Engineer | Bridging Low-Level Logic & High-Level Interfaces**
+  **Software & Automation Engineer | Bridging Low-Level Logic & High-Level Interfaces** <br></br>
 _Coding the future beyond the horizon._
 
 </div>
